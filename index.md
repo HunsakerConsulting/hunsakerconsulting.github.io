@@ -1,6 +1,6 @@
-# This is a website dedicated to developing and testing tools useful for teaching students with visual impairments. 
+# Resources
 
-## Resources
+## This is a website dedicated to developing and testing tools useful for teaching students with visual impairments. 
 
 ### Resources for teaching tracking and early reading skills using refreshable braille displays
 

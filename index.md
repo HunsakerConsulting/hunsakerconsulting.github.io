@@ -4,14 +4,16 @@
 
 ### Resources for teaching tracking and early reading skills using refreshable braille displays
 
-- [Click here to practice braille tracking skills](https://hunsakerconsulting.github.io/BrailleTracking/)
+- <a href="https://hunsakerconsulting.github.io/BrailleTracking/" target="_blank">Click here to practice braille tracking skills</a>
 
-- [Click here to practice reading short, decodable readers](https://hunsakerconsulting.github.io/DecodableReaders/)
+- <a href="https://hunsakerconsulting.github.io/DecodableReaders/" target="_blank">Click here to practice reading short, decodable readers</a>()
 
 ### Resources for Abacus instruction
 
-- [Click here for levelled problem sets for the Cranmer Abacus](https://hunsakerconsulting.github.io/SorobanProblemSet/)
+- <a href="https://hunsakerconsulting.github.io/SorobanProblemSet/)
+" target="_blank">Click here for levelled problem sets for the Cranmer Abacus</a>
 
 ### Resources for Recreation
 
-- [Click here for accessible crossword puzzles](https://hunsakerconsulting.github.io/Crosswords/)
+- <a href="https://hunsakerconsulting.github.io/Crosswords/)
+" target="_blank">Click here for accessible crossword puzzles</a>
